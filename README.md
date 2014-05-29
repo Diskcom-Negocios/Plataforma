@@ -1,4 +1,0 @@
-Plataforma
-==========
-
-Creando nuestro login
